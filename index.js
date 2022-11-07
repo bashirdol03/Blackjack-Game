@@ -2,7 +2,7 @@ let player = {
     name: "Per",
     chips: 200
 }
-
+// A random comment
 let cards = []
 let sum = 0
 let hasBlackJack = false
